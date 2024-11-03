@@ -1,0 +1,16 @@
+{
+  "name": "roulette",
+  "version": "1.0.0",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+  "build-css": "tailwindcss -i ./styles.css -o ./dist/output.css --watch"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
